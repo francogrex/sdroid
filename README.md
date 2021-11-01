@@ -1,7 +1,7 @@
 # sdroid
 
-This is a <a href="jscheme https://norvig.com/jscheme.html">jscheme</a> interpreter for android.
-It has also the ability to compile java code to class ->  dex/jar using ecj compiler and dx - the java compilance level
+This is a <a href="jscheme https://norvig.com/jscheme.html">jscheme</a> interpreter and a java compiler for android.
+It has the ability to  interpret and compile java code to class ->  dex/jar using ecj compiler and dx - the java compilance level
 however is at 1.5 (problems to have java  8 or 9 compilation directly on the android platform are well known).
 
 
@@ -23,7 +23,7 @@ however is at 1.5 (problems to have java  8 or 9 compilation directly on the and
 To install, create an apk (either from command line, for example see build-instructions.sh,
 or using the studio).
 After installing the apk, create a folder on your phone:
-/sdcard/Download/java and within three subfolders code, compile and libs (this is where you will put your code)
+/sdcard/Download/java and within three subfolders code, compile and libs (this is for the apps you will create)
 You will need a android.jar used for compilation, put it in and as: /sdcard/Download/java/android.jar
 
 
@@ -31,4 +31,4 @@ You will need a android.jar used for compilation, put it in and as: /sdcard/Down
 
 Several examples to make android applications to be added soon
 
-<img src="/res/screen.png" alt="jscheme">
+<img src="/res/screen.png" alt="jscheme" width="100">
