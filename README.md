@@ -27,7 +27,7 @@ After installing the apk, create a folder on your phone:
 You will need a android.jar used for compilation, put it in and as: /sdcard/Download/java/android.jar
 
 
-## Examples
+## Use Instructions and Examples
 
 Several examples to make android applications to be added soon
 
