@@ -31,4 +31,4 @@ You will need a android.jar used for compilation, put it in and as: /sdcard/Down
 
 Several examples to make android applications to be added soon
 
-<img src="/res/screen.png" alt="jscheme" width="100">
+<img src="/res/screen.png" alt="jscheme" width="200">
