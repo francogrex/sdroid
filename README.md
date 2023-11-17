@@ -2,7 +2,7 @@
 
 This is a <a href="jscheme https://norvig.com/jscheme.html">jscheme</a> interpreter and a java compiler for android.
 It has the ability to  interpret and compile java code to class ->  dex/jar using ecj compiler and dx - the java compilance level
-however is at 1.5 (problems to have java 8 or 9 compilation directly on the android platform are well known). Although a newer javac 11.0.16 compiler.
+however is at 1.5 (problems to have java 8 or 9 compilation directly on the android platform are well known). Although a newer version of the app with an intergrated javac 11.0.16 compiler is available.
 
 
 ### features
