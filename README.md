@@ -2,7 +2,7 @@
 
 This is a <a href="jscheme https://norvig.com/jscheme.html">jscheme</a> interpreter and a java compiler for android.
 It has the ability to  interpret and compile java code to class ->  dex/jar using ecj compiler and dx - the java compilance level
-however is at 1.5 (problems to have java  8 or 9 compilation directly on the android platform are well known).
+however is at 1.5 (problems to have java 8 or 9 compilation directly on the android platform are well known). Although a newer javac 11.0.16 compiler.
 
 
 ### features
@@ -10,11 +10,13 @@ however is at 1.5 (problems to have java  8 or 9 compilation directly on the and
  <li>Access to methods, contructors, and fields of java/android classes</li>
  <li>Compilation of java code</li>
  <li>run a foreground server</li>
- <li>an associated editor</li>
+ <li>Interacts with NDK executable programs</li>
+ <li>Includes two associated editors</li>
 
 ## Dependencies and installation
 
-  ecj.jar and dx.jar are included and the compilation.
+  ecj.jar and dx.jar for compilations are included.
+  A newer version include a newer javac 11.0.16 compiler instead of ecj.
   An external editor app should be installed.
   I use com.aor.droidedit.pro, if you like to use another
   editor simply replace your package new in here:
