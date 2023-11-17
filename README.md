@@ -33,7 +33,7 @@ Several examples to make android applications to be added soon. This below shows
 
 <img src="/res/screen.png" alt="jscheme" width="200">
 
-This is a chess GUI for playing and teaching app that uses stockfish running on the android device
+This is a chess GUI app for playing and teaching chess. It uses stockfish executable (NDK compiled) running on the device
 
 <img src="/res/chess.png" alt="jscheme" width="200">
 
