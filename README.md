@@ -29,6 +29,11 @@ You will need a android.jar used for compilation, put it in and as: /sdcard/Down
 
 ## Use Instructions and Examples
 
-Several examples to make android applications to be added soon
+Several examples to make android applications to be added soon. This below shows how to compile a java program and load it to use.
 
 <img src="/res/screen.png" alt="jscheme" width="200">
+
+This is a chess GUI for playing and teaching app that uses stockfish running on the android device
+
+<img src="/res/chess.png" alt="jscheme" width="200">
+
